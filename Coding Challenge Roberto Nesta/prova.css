@@ -1,0 +1,49 @@
+.sfondoimmagine{
+  background-image: url("lime_foto1.jpg.jpg");
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.logo{
+  width: 150px;
+  ;
+}
+
+.sfondo_oscurato{
+  height: 500px;
+  width: 500px;
+  background-color: rgba(0,0,0,.5);
+  color: #fff;
+  align: center;
+  margin:auto;
+}
+
+#paragrafo{
+  color: green;
+  font-weight: bold;
+}
+
+.pulsante{
+  margin-left:40px;
+  margin-top:10px;
+  margin-bottom: 10px;
+}
+
+#firstrectangle{
+  width:200px;
+  height:20px;
+  background:orange;
+}
+#secondrectangle{
+  width: 300px;
+  height:20px;
+  background: limegreen;
+}
+#thirdrectangle{
+  width: 27px;
+  height:20px;
+  background: red;
+}
